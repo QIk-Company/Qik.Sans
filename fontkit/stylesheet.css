@@ -19,7 +19,7 @@
 }
 
 @font-face {
-    font-family: 'qik.sansbold_italic';
+    font-family: 'qik.sans';
     src: url('qik.sans-bolditalic-webfont.woff2') format('woff2'),
          url('qik.sans-bolditalic-webfont.woff') format('woff');
     font-weight: bold;
@@ -38,7 +38,7 @@
 }
 
 @font-face {
-    font-family: 'google_sans';
+    font-family: 'qik.sans';
     src: url('qik.sans-medium-webfont.woff2') format('woff2'),
          url('qik.sans-medium-webfont.woff') format('woff');
     font-weight: 500;
@@ -46,7 +46,7 @@
 }
 
 @font-face {
-    font-family: 'google_sans';
+    font-family: 'qik.sans';
     src: url('qik.sans-medium-webfont.woff2') format('woff2'),
     url('qik.sans-medium-webfont.woff') format('woff');
     font-weight: 600;
@@ -55,7 +55,7 @@
 
 
 @font-face {
-    font-family: 'google_sansmedium_italic';
+    font-family: 'qik.sans';
     src: url('qik.sans-mediumitalic-webfont.woff2') format('woff2'),
          url('qik.sans-mediumitalic-webfont.woff') format('woff');
     font-weight: 500;
@@ -63,7 +63,7 @@
 }
 
 @font-face {
-    font-family: 'google_sansmedium_italic';
+    font-family: 'qik.sans';
     src: url('qik.sans-mediumitalic-webfont.woff2') format('woff2'),
     url('qik.sans-mediumitalic-webfont.woff') format('woff');
     font-weight: 600;
